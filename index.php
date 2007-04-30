@@ -33,7 +33,7 @@ $smarty->assign("title",$cfg_title);
 $smarty->display('header.tpl');
 
 // Include Modules
-include("sys/mod2.php");
+include("sys/function_mod.php");
 
 $modLoad = new modsys();
 $modLoad -> modLoader("modules");
