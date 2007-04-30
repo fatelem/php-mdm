@@ -19,6 +19,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
 // Includes
+include("sys/function_core.php");
 include("configs/cfg_main.php");
 require("libs/Smarty.class.php");
 

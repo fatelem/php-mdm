@@ -1,4 +1,4 @@
-<?php
+<?PHP
 /*
 php-mdm
 Copyright (C) 2006 php-mdm team
@@ -18,7 +18,6 @@ along with this program; if not, write to the Free Software
 Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
-$cfg_title = "php-MDM Alpha";
-$cfg_mainpage = "index.php";
+$phpver = "0.0.1a";
 
 ?>
