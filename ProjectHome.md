@@ -1,0 +1,3 @@
+Modular Data Management Prototype of a modular control system in PHP. Currently the functionality is limited, just a basic load all system has been set up.
+
+SMARTY Template Engine is used in this project, the main focus is to develop a simple module hook system which can be used in other projects. Eventual hopes are to have modules be controlled via SQL with an administration system for configuring, installing, uninstalling, enabling, and disabling modules.
